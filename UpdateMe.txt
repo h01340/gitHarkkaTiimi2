@@ -1,3 +1,7 @@
 Päivittäkää tätä tiedostoa 
 
+<<<<<<< HEAD
 selvä
+=======
+moikka t.piia
+>>>>>>> c1604bc214000833d48c61289101b1e2fc3c86bf

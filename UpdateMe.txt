@@ -1,5 +1,11 @@
 Päivittäkää tätä tiedostoa 
 
+ HEAD
+selvä
+=======
 moikka t.piia
+ HEAD
 Päivittäkää tätä tiedostoa
 tiedostoa päivitetty
+=======
+

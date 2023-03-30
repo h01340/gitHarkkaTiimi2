@@ -3,7 +3,7 @@ Päivittäkää tätä tiedostoa
  HEAD
 selvä
 =======
-moikka t.piia
+moikka t.piia moi myös t. samuel
  HEAD
 Päivittäkää tätä tiedostoa
 tiedostoa päivitetty

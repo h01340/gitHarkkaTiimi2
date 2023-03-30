@@ -1,12 +1,1 @@
-Päivittäkää tätä tiedostoa 
-
- HEAD
-selvä
-=======
-moikka t.piia moi myös t. samuel
- HEAD
-Päivittäkää tätä tiedostoa
-tiedostoa päivitetty
-=======
-
-alex ich
+superior file

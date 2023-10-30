@@ -1,5 +1,13 @@
 Kirjoitelkaa tähän tiedostoon....
 
+<<<<<<< HEAD
 Kaj Jansson kirjoitaa svenskasuomea.
 
 Absolut,jag kan hjälpa med denna roskis.
+=======
+Kaj Jansson kirjoitaa svenskasuomea.¨
+
+Helan gå, tsuppa ralla la lei!
+
+Moi! t.zoka
+>>>>>>> 9a92fc74f4ec59a9afcb29aff5c66322b90abc2e

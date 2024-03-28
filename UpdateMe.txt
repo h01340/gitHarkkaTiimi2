@@ -1,6 +1,7 @@
 Kirjoitelkaa tähän tiedostoon....
 
 Moi pojat :D t: Raikku :DDDDDD
+<<<<<<< HEAD
 Amogus
 roope
 
@@ -9,3 +10,9 @@ bissee? t: Max
 
 
 asd
+=======
+
+bissee? t: Max
+
+moimoimoi
+>>>>>>> 918b7cb3738b68a101e8348d00fc9a969ddd27ca

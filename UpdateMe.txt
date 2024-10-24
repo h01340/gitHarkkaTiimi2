@@ -4,7 +4,7 @@ Anna leikkii täällä
 
 Heidi lisäsi tämän
 Lisätään jokin juttu
-Heidi lisäsi tämän - ja Otto muokkasi tätä riviä
+Poistin duplikaatti rivin tästä -Otto
 >>>
 Huang oli täällä
 Netta 

@@ -1,11 +1,7 @@
 Tätä tiedostoa voi päivitellä..
 
 Heidi lisäsi tämän
-<<<<<<< HEAD
 Lisätään jokin juttu
-Anna leikkii täällä
-=======
-Anna leikkii täällä
-
+Heidi lisäsi tämän - ja Otto muokkasi tätä riviä
 Huang oli täällä
->>>>>>> d52e79f68a869080ba0b60a8b1a32ca703ee2841
+Netta

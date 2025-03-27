@@ -5,7 +5,7 @@ Anna leikkii täällä
 Heidi lisäsi tämän
 Lisätään jokin juttu
 Poistin duplikaatti rivin tästä -Otto
-
+>>>
 Huang oli täällä
 Netta 
 Hei, Anna täällä
@@ -14,18 +14,14 @@ moi vaan
 heeei mari
 heeeeeeeeeeeei MAri -.-
 
-kaikki menee päin persettä!
+heii
+
+
 Hyvää huomenta
 
 
-No terve
-hehe
-
-hellou
-
-No terve
-
 mmmmmmmmm
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 49df6585355a02995c8c12e1767884086edd90fb
 
@@ -40,3 +36,13 @@ typee
 very good very nice :D
 
 >>>>>>> 7483031c0e62f839dbe405566bdad115e87679c4
+=======
+
+very good very nice :D
+>>>>>>> 7a0715053b102240412e0bb360c5327c166978ac
+=======
+fhhdfusuifhdsihfsdhi
+moi
+taas
+>>>>>>> 2d219e04f6684e898c8a3c9d9182ce59f98e6a46
+>>>>>>> f7282978ceec1f1c95c23ba55e5d21ea78f2cacf

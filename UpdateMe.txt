@@ -14,11 +14,18 @@ moi vaan
 heeei mari
 heeeeeeeeeeeei MAri -.-
 
-kaikki menee päin persettä!
+heii
+
+
 Hyvää huomenta
 
 
 mmmmmmmmm
+<<<<<<< HEAD
 
 very good very nice :D
 >>>>>>> 7a0715053b102240412e0bb360c5327c166978ac
+=======
+fhhdfusuifhdsihfsdhi
+moi
+>>>>>>> 2d219e04f6684e898c8a3c9d9182ce59f98e6a46

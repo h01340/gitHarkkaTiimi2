@@ -18,11 +18,9 @@ kaikki menee päin persettä!
 Hyvää huomenta
 
 
+hamburger
+
 mmmmmmmmm
-<<<<<<< HEAD
-typee
-=======
->>>>>>> 49df6585355a02995c8c12e1767884086edd90fb
 
 very good very nice :D
 >>>>>>> 6d6cdc0cba190c131e90d2737a4ed0c1cf3d734d

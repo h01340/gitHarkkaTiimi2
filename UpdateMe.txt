@@ -5,7 +5,7 @@ Anna leikkii täällä
 Heidi lisäsi tämän
 Lisätään jokin juttu
 Poistin duplikaatti rivin tästä -Otto
->>>
+
 Huang oli täällä
 Netta 
 Hei, Anna täällä
@@ -22,8 +22,15 @@ No terve
 hehe
 
 hellou
-=======
+
 No terve
 
 mmmmmmmmm
+
+
+mmmmmmmmm
+
+typee
+
+very good very nice :D
 

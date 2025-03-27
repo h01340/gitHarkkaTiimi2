@@ -18,7 +18,11 @@ heeeeeeeeeeeei MAri -.-
 Hyvää huomenta
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hellou
+=======
+No terve
+>>>>>>> e4f4e0612b14340d2bdf86852d26980c0d89fc41
 =======
 
 mmmmmmmmm

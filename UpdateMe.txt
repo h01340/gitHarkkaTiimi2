@@ -5,7 +5,7 @@ Anna leikkii täällä
 Heidi lisäsi tämän
 Lisätään jokin juttu
 Poistin duplikaatti rivin tästä -Otto
->>>
+
 Huang oli täällä
 Netta 
 Hei, Anna täällä
@@ -18,9 +18,31 @@ kaikki menee päin persettä!
 Hyvää huomenta
 
 
+No terve
+hehe
+
+hellou
+
+No terve
+
+mmmmmmmmm
+
+
+No terve
+hehe
+
+hellou
+
+No terve
+
+mmmmmmmmm
+
+
 hamburger
 
 mmmmmmmmm
 
+typee
+
 very good very nice :D
->>>>>>> 6d6cdc0cba190c131e90d2737a4ed0c1cf3d734d
+

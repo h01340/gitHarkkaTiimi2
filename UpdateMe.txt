@@ -5,3 +5,5 @@ Ohjelmistoprojekti 1 kurssi on nyt aloitettu. Kovasti tuntuu olevan kaikennäkö
 Tässä on Nadjan muokkauksia testiä varten!
 
 hmmmmm tuleeko tästä konflikti??
+
+lisää konfliktitestiä
